@@ -21,7 +21,7 @@ body {
     flex-direction: column;
     background-color:#fff;
     width: 28em;
-    height: 60vh;
+    height: auto;
     border-radius: 15px;
 }
 
