@@ -26,10 +26,8 @@ body {
 }
 
 .flex-container img {
-    
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
-    
 }
 
  h1 {
@@ -88,7 +86,6 @@ body {
     font-family: "Red Hat Display", sans-serif;
     margin-top: 30px;
     margin-right: 5px;
-
 }
 
 .price-setion a:hover {
